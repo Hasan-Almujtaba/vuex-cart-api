@@ -1,0 +1,8 @@
+{
+  "editor.tabSize": 2,
+  "html.format.indentInnerHtml": true,
+  "editor.codeActionsOnSave": null,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.vueIndentScriptAndStyle": true,
+  "vetur.format.options.useTabs": true
+}
